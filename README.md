@@ -9,7 +9,7 @@ Python  | >= 3
  1. 安装Python3环境
 
 ``` shell
-sudo apt-get install python3.10.9
+sudo apt-get install python3.10
 ```
 
  2. 安装pip包依赖
