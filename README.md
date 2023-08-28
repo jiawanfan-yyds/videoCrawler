@@ -12,16 +12,31 @@ Python  | >= 3
 sudo apt-get install python3.10.9
 ```
 
- 2. 安装PIP包依赖
+ 2. 安装pip包依赖
 
 ``` shell
 pip3 install -r requirements.txt
 ```
 
- 3. 获得程序
+ 3. 获得项目
 
 ``` shell
-git clone 
+git clone https://github.com/jiawanfan-yyds/videoCrawler.git
+```
+
+>Windows
+ 1. 自行去官网安装python环境
+
+ 2. 安装pip包依赖
+
+``` shell
+pip3 install -r requirements.txt
+```
+
+3. 获得项目
+
+``` shell
+git clone https://github.com/jiawanfan-yyds/videoCrawler.git
 ```
 
 ## 配置
@@ -44,7 +59,9 @@ python3 yhdmCrawler.py
 
 ## 计划
 [x] 已完成bilibili视频爬取
+
 [x] 已完成樱花动漫视频爬取
+
 [ ] 其他待续……
 
 
